@@ -1,0 +1,184 @@
+2025-09-13 00:00:02 INFO  test.utils.Log4jLogger - [32mTest Passed: Initializing Objects...[0m
+2025-09-13 00:00:02 INFO  test.utils.Log4jLogger - [32mTest Passed: Setting up RemoteWebDriver for browser: chrome[0m
+2025-09-13 00:00:04 INFO  test.utils.Log4jLogger - [32mTest Passed: RemoteWebDriver initialized successfully![0m
+2025-09-13 00:00:05 WARN  test.utils.Log4jLogger - [38;5;208m WARNING :..\test\datasheet\dataSheet.xlsx (The process cannot access the file because it is being used by another process)[0m
+2025-09-13 00:00:05 INFO  test.utils.Log4jLogger - [32mTest Passed: [0m
+2025-09-13 00:00:06 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:08 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:08 INFO  test.utils.Log4jLogger - [32mTest Passed: standard_user Sent Successfully! on chrome[0m
+2025-09-13 00:00:09 INFO  test.utils.Log4jLogger - [32mTest Passed: secret_sauce Sent Successfully! on chrome[0m
+2025-09-13 00:00:10 INFO  test.utils.Log4jLogger - [32mTest Passed: loginBtn [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:10 INFO  test.utils.Log4jLogger - [32mTest Passed: cartIcon Displayed on :chrome[0m
+2025-09-13 00:00:10 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:11 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:11 INFO  test.utils.Log4jLogger - [32mTest Passed: selectSouceLabBackpack [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:12 INFO  test.utils.Log4jLogger - [32mTest Passed: addToCart [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:12 INFO  test.utils.Log4jLogger - [32mTest Passed: backToProducts [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:12 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:12 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:13 INFO  test.utils.Log4jLogger - [32mTest Passed: selectSouceLabBikeLight [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:13 INFO  test.utils.Log4jLogger - [32mTest Passed: addToCart [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:13 INFO  test.utils.Log4jLogger - [32mTest Passed: backToProducts [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:14 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:14 INFO  test.utils.Log4jLogger - [32mTest Passed: 2 : contains expected text : 2 on chrome[0m
+2025-09-13 00:00:14 INFO  test.utils.Log4jLogger - [32mTest Passed: cartButton [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:14 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:14 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:15 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:15 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Remove : contains expected text : $29.99 on chrome[0m
+2025-09-13 00:00:15 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Remove : contains expected text : Sauce Labs Backpack on chrome[0m
+2025-09-13 00:00:15 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:15 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:16 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:16 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Remove : contains expected text : $9.99 on chrome[0m
+2025-09-13 00:00:16 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Remove : contains expected text : Sauce Labs Bike Light on chrome[0m
+2025-09-13 00:00:16 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:16 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:16 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:17 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:17 INFO  test.utils.Log4jLogger - [32mTest Passed: checkOutButton [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:17 INFO  test.utils.Log4jLogger - [32mTest Passed: John Sent Successfully! on chrome[0m
+2025-09-13 00:00:18 INFO  test.utils.Log4jLogger - [32mTest Passed: Doe Sent Successfully! on chrome[0m
+2025-09-13 00:00:18 INFO  test.utils.Log4jLogger - [32mTest Passed: 12345.0 Sent Successfully! on chrome[0m
+2025-09-13 00:00:19 INFO  test.utils.Log4jLogger - [32mTest Passed: continueButton [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:19 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:19 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:19 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:19 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99 : contains expected text : $29.99 on chrome[0m
+2025-09-13 00:00:19 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99 : contains expected text : Sauce Labs Backpack on chrome[0m
+2025-09-13 00:00:19 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:20 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:20 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:20 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99 : contains expected text : $9.99 on chrome[0m
+2025-09-13 00:00:20 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99 : contains expected text : Sauce Labs Bike Light on chrome[0m
+2025-09-13 00:00:20 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:20 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:20 INFO  test.utils.Log4jLogger - [32mTest Passed: Item total: $39.98 : contains expected text : $39.98 on chrome[0m
+2025-09-13 00:00:21 INFO  test.utils.Log4jLogger - [32mTest Passed: Scrolled to element successfully on chrome[0m
+2025-09-13 00:00:21 INFO  test.utils.Log4jLogger - [32mTest Passed: Finish botton [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:21 INFO  test.utils.Log4jLogger - [32mTest Passed: Thank you for your order! : contains expected text : Thank you for your order! on chrome[0m
+2025-09-13 00:00:21 INFO  test.utils.Log4jLogger - [32mTest Passed: menu [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:22 INFO  test.utils.Log4jLogger - [32mTest Passed: logOutButton [button]  clicked Successfully! on chrome[0m
+2025-09-13 00:00:22 INFO  test.utils.Log4jLogger - [32mTest Passed: loginForm Displayed on :chrome[0m
+2025-09-13 00:00:22 INFO  test.utils.Log4jLogger - [32mTest Passed: Hi : matches expected : Hi on chrome[0m
+2025-09-13 00:00:30 WARN  test.utils.Log4jLogger - [38;5;208m Closing Browser Driver...[0m
+2025-09-13 00:00:30 INFO  test.utils.Log4jLogger - [32mTest Passed: Initializing Objects...[0m
+2025-09-13 00:00:30 INFO  test.utils.Log4jLogger - [32mTest Passed: Setting up RemoteWebDriver for browser: edge[0m
+2025-09-13 00:00:31 INFO  test.utils.Log4jLogger - [32mTest Passed: RemoteWebDriver initialized successfully![0m
+2025-09-13 00:00:32 WARN  test.utils.Log4jLogger - [38;5;208m WARNING :..\test\datasheet\dataSheet.xlsx (The process cannot access the file because it is being used by another process)[0m
+2025-09-13 00:00:32 INFO  test.utils.Log4jLogger - [32mTest Passed: [0m
+2025-09-13 00:00:32 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:32 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:32 INFO  test.utils.Log4jLogger - [32mTest Passed: standard_user Sent Successfully! on edge[0m
+2025-09-13 00:00:32 INFO  test.utils.Log4jLogger - [32mTest Passed: secret_sauce Sent Successfully! on edge[0m
+2025-09-13 00:00:32 INFO  test.utils.Log4jLogger - [32mTest Passed: loginBtn [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:32 INFO  test.utils.Log4jLogger - [32mTest Passed: cartIcon Displayed on :edge[0m
+2025-09-13 00:00:33 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:33 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:33 INFO  test.utils.Log4jLogger - [32mTest Passed: selectSouceLabBackpack [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:33 INFO  test.utils.Log4jLogger - [32mTest Passed: addToCart [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:33 INFO  test.utils.Log4jLogger - [32mTest Passed: backToProducts [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:33 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:34 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:34 INFO  test.utils.Log4jLogger - [32mTest Passed: selectSouceLabBikeLight [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:34 INFO  test.utils.Log4jLogger - [32mTest Passed: addToCart [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:34 INFO  test.utils.Log4jLogger - [32mTest Passed: backToProducts [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:35 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:35 INFO  test.utils.Log4jLogger - [32mTest Passed: 2 : contains expected text : 2 on edge[0m
+2025-09-13 00:00:35 INFO  test.utils.Log4jLogger - [32mTest Passed: cartButton [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:35 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:35 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:36 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:36 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Remove : contains expected text : $29.99 on edge[0m
+2025-09-13 00:00:36 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Remove : contains expected text : Sauce Labs Backpack on edge[0m
+2025-09-13 00:00:36 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:36 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:37 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:37 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Remove : contains expected text : $9.99 on edge[0m
+2025-09-13 00:00:37 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Remove : contains expected text : Sauce Labs Bike Light on edge[0m
+2025-09-13 00:00:37 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:37 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:37 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:38 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:38 INFO  test.utils.Log4jLogger - [32mTest Passed: checkOutButton [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:38 INFO  test.utils.Log4jLogger - [32mTest Passed: John Sent Successfully! on edge[0m
+2025-09-13 00:00:38 INFO  test.utils.Log4jLogger - [32mTest Passed: Doe Sent Successfully! on edge[0m
+2025-09-13 00:00:38 INFO  test.utils.Log4jLogger - [32mTest Passed: 12345.0 Sent Successfully! on edge[0m
+2025-09-13 00:00:39 INFO  test.utils.Log4jLogger - [32mTest Passed: continueButton [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:39 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:39 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:39 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:39 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99 : contains expected text : $29.99 on edge[0m
+2025-09-13 00:00:40 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99 : contains expected text : Sauce Labs Backpack on edge[0m
+2025-09-13 00:00:40 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:40 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:40 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:40 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99 : contains expected text : $9.99 on edge[0m
+2025-09-13 00:00:40 INFO  test.utils.Log4jLogger - [32mTest Passed: 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99 : contains expected text : Sauce Labs Bike Light on edge[0m
+2025-09-13 00:00:40 INFO  test.utils.Log4jLogger - [32mTest Passed: Getting number of rows from sheet: items[0m
+2025-09-13 00:00:41 INFO  test.utils.Log4jLogger - [32mTest Passed: reading data from : ../test/datasheet/dataSheet.xlsx[0m
+2025-09-13 00:00:41 INFO  test.utils.Log4jLogger - [32mTest Passed: Item total: $39.98 : contains expected text : $39.98 on edge[0m
+2025-09-13 00:00:41 INFO  test.utils.Log4jLogger - [32mTest Passed: Scrolled to element successfully on edge[0m
+2025-09-13 00:00:41 INFO  test.utils.Log4jLogger - [32mTest Passed: Finish botton [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:42 INFO  test.utils.Log4jLogger - [32mTest Passed: Thank you for your order! : contains expected text : Thank you for your order! on edge[0m
+2025-09-13 00:00:42 INFO  test.utils.Log4jLogger - [32mTest Passed: menu [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:43 INFO  test.utils.Log4jLogger - [32mTest Passed: logOutButton [button]  clicked Successfully! on edge[0m
+2025-09-13 00:00:43 INFO  test.utils.Log4jLogger - [32mTest Passed: loginForm Displayed on :edge[0m
+2025-09-13 00:00:43 INFO  test.utils.Log4jLogger - [32mTest Passed: Hi : matches expected : Hi on edge[0m
+2025-09-13 00:00:51 WARN  test.utils.Log4jLogger - [38;5;208m Closing Browser Driver...[0m

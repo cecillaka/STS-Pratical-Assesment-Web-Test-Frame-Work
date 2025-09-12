@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel Execution Suite" parallel="class" thread-count="2">
+
+
+           <test name="Chrome Browser Testing">
+ <listeners>
+     <listener class-name="test.listeners.TestListener"/>
+  </listeners>
+        <parameter name="browserName" value="chrome" />
+        <parameter name="browserURL" value="https://www.saucedemo.com/" />
+        <parameter name="severURL" value="http://127.0.0.1:4444" />
+        <classes>
+            <class name="web.test.WebPlaceOrder" />
+        </classes>
+    </test>
+  
+    
+
+          <test name="edge Browser Testing">
+ <listeners>
+     <listener class-name="test.listeners.TestListener"/>
+  </listeners>
+        <parameter name="browserName" value="edge" />
+        <parameter name="browserURL" value="https://www.saucedemo.com/" />
+        <parameter name="severURL" value="http://127.0.0.1:4444" />
+        <classes>
+            <class name="web.test.WebPlaceOrder" />
+        </classes>
+    </test>
+ 
+ 
+
+
+	  
+</suite>
+
